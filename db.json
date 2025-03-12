@@ -3,21 +3,21 @@
         {
             "id":1,
             "name":"elvis",
-            "password":"$2a$04$./ad3rVF0LROgtfbabPxk.NyHn5Brg2M9NRaGYnigFF3/oJfDI8IK",
+            "password":"e10adc3949ba59abbe56e057f20f883e",
             "email":"elvis@gmail.com",
             "pin":""
         },
         {
             "id":2,
             "name":"pepito",
-            "password":"$2a$04$./ad3rVF0LROgtfbabPxk.NyHn5Brg2M9NRaGYnigFF3/oJfDI8IK",
+            "password":"e10adc3949ba59abbe56e057f20f883e",
             "email":"pepito@gmail.com",
             "pin":""
         },
         {
             "id":3,
             "name":"daniel",
-            "password":"$2a$04$./ad3rVF0LROgtfbabPxk.NyHn5Brg2M9NRaGYnigFF3/oJfDI8IK",
+            "password":"e10adc3949ba59abbe56e057f20f883e",
             "email":"dani@hotmail.com",
             "pin":""
         }
