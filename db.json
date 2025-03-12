@@ -4,19 +4,22 @@
             "id":1,
             "name":"elvis",
             "password":"123456",
-            "email":"elvis@gmail.com"
+            "email":"elvis@gmail.com",
+            "pin":""
         },
         {
             "id":2,
             "name":"pepito",
             "password":"123456",
-            "email":"pepito@gmail.com"
+            "email":"pepito@gmail.com",
+            "pin":""
         },
         {
             "id":3,
             "name":"daniel",
             "password":"1114782",
-            "email":"dani@hotmail.com"
+            "email":"dani@hotmail.com",
+            "pin":""
         }
     ],
     "salas":[
