@@ -3,21 +3,21 @@
         {
             "id":1,
             "name":"elvis",
-            "password":"123456",
+            "password":"$2a$04$./ad3rVF0LROgtfbabPxk.NyHn5Brg2M9NRaGYnigFF3/oJfDI8IK",
             "email":"elvis@gmail.com",
             "pin":""
         },
         {
             "id":2,
             "name":"pepito",
-            "password":"123456",
+            "password":"$2a$04$./ad3rVF0LROgtfbabPxk.NyHn5Brg2M9NRaGYnigFF3/oJfDI8IK",
             "email":"pepito@gmail.com",
             "pin":""
         },
         {
             "id":3,
             "name":"daniel",
-            "password":"1114782",
+            "password":"$2a$04$./ad3rVF0LROgtfbabPxk.NyHn5Brg2M9NRaGYnigFF3/oJfDI8IK",
             "email":"dani@hotmail.com",
             "pin":""
         }
